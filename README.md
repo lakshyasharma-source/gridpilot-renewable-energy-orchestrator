@@ -67,8 +67,8 @@ The proposed assessment remains **F3 / D1**, subject to the submitted evidence. 
 - [Detailed structural architecture](docs/ARCHITECTURE.md)
 - [Two-to-four-minute demo script](docs/DEMO_SCRIPT.md)
 - [Submission checklist and justification](docs/SUBMISSION.md)
-- [Seven-page pitch PDF](docs/GridPilot_Pitch.pdf)
-- [Captioned demo video](docs/GridPilot_Demo.mp4)
+- [Reviewed seven-page pitch PDF](docs/GridPilot_Pitch_Reviewed.pdf)
+- [Corrected 150-second demo video](docs/GridPilot_Demo_Corrected.mp4)
 - [Recorded validation](docs/VALIDATION.md) and [exact results](docs/VALIDATION_RESULTS.json)
 
 The supplied portal screenshot requests a GitHub repository URL, a PDF or PowerPoint deck, and a two-to-four-minute demo video. Confirm repository publication, video playback, judge access and the portal's current fields/deadline before submitting.
